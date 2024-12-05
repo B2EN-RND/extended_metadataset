@@ -1,0 +1,665 @@
+데이터셋명,데이터명,컬럼명,타입,설명
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,categories,array of object,라벨 정보
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,id,number,라벨 번호
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,name,string,라벨 이름
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,images,array of object,이미지 정보
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,id,number,이미지 번호
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,width,number,이미지 폭
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,height,number,이미지 높이
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,file_name,string,이미지 파일명
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,annotations,array of object,라벨링 정보
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,id,number,어노테이션 식별자
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,image_id,number,이미지 번호
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,category_id,number,라벨 유형(클래스 id)
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,segmentation,array of object,세그멘테이션 정보
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,area,number,바운딩박스 전체면적
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,bbox,array of object,바운딩박스 정보
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,iscrowd,number,다중 객체 라벨 시 사용되는 변수
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,attributes,object,라벨 속성값
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,occluded,boolean,객체 가려짐 여부
+"과수원 내 로봇 주행 데이터(사과, 배 류)",바운딩박스 라벨,rotation,number,바운딩박스 회전값
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,categories,array of object,종류
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,label,array of object,라벨 정보
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,labels,array of object,세부라벨
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,name,string,세부라벨 이름
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,parent,string,세부라벨 종속정보
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,attributes,array of object,세부라벨 속성
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,attributes,array of object,라벨속성
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,points,array of object,포인트 정보
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,items,array of object,포인트가 사용된 파일 정보
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,items,array of object,파일
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,id,string,파일명
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,annotations,array of object,어노테이션 정보
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,id,number,어노테이션 번호
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,type,string,어노테이션 타입
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,attribute,array of object,속성정보
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,occluded,boolean,가림 여부
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,group,number,그룹번호
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,label_id,number,라벨 번호
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,position,array of object,"라벨 x,y,z 위치"
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,rotation,array of object,라벨 회전 정보
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,scale,array of object,라벨 크기
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,attr,array of object,프레임
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,frame,number,프레임 번호
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,point_cloud,array of object,포인트 클라우드
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,path,string,경로 정보
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,media,array of object,미디어
+"과수원 내 로봇 주행 데이터(사과, 배 류)",3D큐보이드 라벨,path,string,경로 정보
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,license,object,라이센스 정보
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,name,string,라이센명
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,id,string,도구ID
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,url,string,도구URL
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,info,object,데이터 정보
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,description,string,데이터 부가 설명
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,date_created,string,데이터 생성일
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,env,object,데이터 수집 환경정보
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,site,string,수집처
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,location,string,수집 장소
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,address,string,수집 주소
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,date,string,수집일자
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,weather,string,수집일 날씨
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,temperature,number,수집일 기온
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,lumen,number,수집현장 조도
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,decibel,number,수집현장 주변소음
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,running_time,string,수집데이터 길이 (동영상)
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,floor_material,string,수집 장소 바닥재질
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,gate_material,string,수집 장소 출입문 재질
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,wall_material,string,수집 장소 벽면 재질
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,interaction_starting_time,string,상호작용 시작 시간
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,interaction_ending_time,string,상호작용 종료 시간
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,imu,object,장비 계측 정보
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,gyroscope_orientation.x,number,자이로스코프 X성분값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,gyroscope_orientation.y,number,자이로스코프 Y성분값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,gyroscope_orientation.z,number,자이로스코프 Z성분값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,gyroscope_orientation.w,number,자이로스코프 W성분값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,magnetometer_angular_velocity.x,number,자기장측정기 X축값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,magnetometer_angular_velocity.y,number,자기장측정기 Y축값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,magnetometer_angular_velocity.z,number,자기장측정기 z축값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,accelerometer_linear_acceleration.x,number,가속도계 X축값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,accelerometer_linear_acceleration.y,number,가속도계 Y축값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,accelerometer_linear_acceleration.z,number,가속도계 Z축값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,categories,array,클래스 분류
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,{},object,-
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,id,number,클래스별 아이디
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,name,string,클래스 아이디별 명칭
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,image,array,이미지 정보
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,id,number,이미지 고유 ID
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,width,number,이미지 가로 크기
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,height,number,이미지 세로 크기
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,file_name,string,이미지 파일명
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,scenario,object,시나리오 정보
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,id,number,시나리오 고유 ID
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,start_time,string,시나리오 시작 일시
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,end_time,string,시나리오 종료 일시
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,distance_traveled,string,로봇 이동 거리
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,len,number,시나리오 전체 프레임수
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,index,number,프레임 순번
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,out_of_focus,boolean,원천데이터 이미지 흔들림 여부
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,annotations,array,어노테이션 정보
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,{},object,-
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,id,number,고유 ID
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,image_id,string,이미지 고유 ID
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,category_id,string,객체 고유 ID
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,bbox,array,bbox 정보
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,$value$,array,어노테이션 좌표 및 사이즈
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,attributes,object,어노테이션 속성
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,is_social_interaction,boolean,상호작용 여부
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,pcd_images,array,PCD 정보
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,id,number,PCD 고유 ID
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,file_name,string,PCD 파일명
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,pcd_annotations,array,PCD 어노테이션 정보
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,{},object,-
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,obj_id,number,가공객체 고유 ID
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,type,string,어노테이션 방식
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,obj_type,string,객체 클래스
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,psr,object,PCD 어노테이션 좌표값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,scale,object,"Cuboid 가로, 세로, 높이 길이값"
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,x,number,가로 길이값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,y,number,세로 길이값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,z,number,높이 길이값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,position,object,Cuboid의 중심점의 3차원 좌표값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,x,number,3차원 x좌표값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,y,number,3차원 y좌표값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,z,number,3차원 z좌표값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,rotation,object,Cuboid의 방향값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,x,number,x축 방향값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,y,number,y축 방향값
+로봇 관점 주행 영상(고도화),소셜 내비게이션 로봇 주행,z,number,z축 방향값
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,2D_image_file_name,string,원천데이터 파일 이름
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,box_type,string,파지상자 종류 
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,camera_info,object,카메라 정보
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,camera_intrinsic_param,object,카메라 내부 파라미터 정보
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,camera_name,string,카메라 모델명
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,camera_type,string,카메라 위치 
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,data_key,string,원천 데이터 이름
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,grip_data,object,로봇 파지점 정보
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,grip_2d_pose,object,파지점 위치(2D)
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,grip_3d_pose,object,파지점 위치(3D)
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,grip_succeed,number,"파지 성공 여부(0:실패, 1:성공)"
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,objects,array,객체 정보
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,annotation_type,string,어노테이션 타입
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,class_name,string,클래스 이름
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,package_type,string,파손방지 재포장 타입
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,properties,object,occlusion 여부 (0:가려짐없음/1:가려짐)
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,id,number,라벨링 식별자
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,segmentation_points,array,세그멘테이션 포인트 위치
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,robot_tf,object,로봇에 대한 transformation matrix
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,rotation_3x3,array,rotation matrix
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,translation_3x1,array,translation matrix
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,human_annotation_grasp,array,휴먼 어노테이션 파지 영역
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,annotation_type,string,어노테이션 타입 
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,id,number,라벨링 식별자
+로봇 행동 데이터(소형객체 파지),상품 3D 데이터,annotation_points,array,세그멘테이션 포인트 위치
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,image_file_name,string,원천데이터 파일명
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,camera_info,object,카메라 정보
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,camera_intrinsic_param,object,카메라 내부 파라미터 정보
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,camera_name,string,카메라 모델명
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,chessboard_tf,object,칼리브레이션을 위한 체스보드와 카메라간의 TF
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,leftbottom_tf_4x4,array,좌측 하단 체스보드의 TF
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,lefttop_tf_4x4,array,좌측 상단 체스보드의 TF
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,rightbottom_tf_4x4,array,우측 하단 체스보드의 TF
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,righttop_tf_4x4,array,우측 상단 체스보드의 TF
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,data_key,object,동영상 정보
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,time,string,프레임 추출 시점
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,video,string,원본 동영상 이름
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,object_name,string,파지 상품 이름
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,objects,array,객체 정보
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,annotation_type,string,로봇영역 폴리곤 세그멘테이션
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,class_name,string,클래스 이름 
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,id,number,라벨링 식별자
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,segmentation_points,array,포인트 위치
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,robot_behaviors,string,로봇 행동 종류
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,robot_joint_value,object,로봇팔 각도
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,robot_tf.j1,number,첫번째 joint의 각도
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,robot_tf.j2,number,두번째 joint의 각도
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,robot_tf.j3,number,세번째 joint의 각도
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,robot_tf.j4,number,네번째 joint의 각도
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,robot_tf.j5,number,다섯번째 joint의 각도
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,robot_tf.j6,number,여섯번째 joint의 각도
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,robot_speed,string,로봇 속도
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,robot_tf,object,
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,tf_4x4,array,로봇에 대한 transformation matrix
+로봇 행동 데이터(소형객체 파지),로봇팔 행동 이미지 데이터,robot_trajectory,string,로봇 궤적 종류
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,3D_image_file_name,string,원천데이터 파일 이름
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,2D_image_file_name,string,상품 2D 이미지 파일 이름
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,box_type,string,파지상자 종류 (None)
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,camera_info,object,카메라 정보
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,camera_intrinsic_param,object,카메라 내부 파라미터 정보
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,camera_name,string,카메라 모델명
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,camera_type,string,카메라 위치 (고정형)
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,data_key,string,원천 데이터 이름
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,grip_data,object,로봇 파지점 정보
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,grip_2d_pose,object,파지점 위치(2D) 
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,grip_3d_pose,object,파지점 위치(3D)
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,grip_succeed,number,파지 성공 여부
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,objects,array,객체 정보
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,annotation_type,string,어노테이션 타입 (3D Cuboid)
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,class_name,string,클래스 이름
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,package_type,string,파손방지 재포장 타입 (없음)
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,annotation_counts,array,큐보이드 포인트 위치
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,robot_tf,object,로봇에 대한 transformation matrix
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,rotation_3x3,array,rotation matrix
+로봇 행동 데이터 (3D 물건 파지),상품 3D 이미지,translation_3x1,array,translation matrix
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,2D_image_file_name,string,원천데이터 파일 이름
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,3D_image_file_name,string,상품 3D 데이터 파일 이름
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,box_type,string,파지상자 종류 (None)
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,camera_info,object,카메라 정보
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,camera_intrinsic_param,object,카메라 내부 파라미터 정보
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,camera_name,string,카메라 모델명
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,camera_type,string,카메라 위치 (고정형)
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,data_key,string,원천 데이터 이름
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,grip_data,object,로봇 파지점 정보
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,grip_2d_pose,object,파지점 위치(2D) 
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,grip_3d_pose,object,파지점 위치(3D)
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,grip_succeed,number,파지 성공 여부
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,objects,array,객체 정보
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,annotation_type,string,어노테이션 타입 (polygon)
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,class_name,string,클래스 이름
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,package_type,string,파손방지 재포장 타입 (없음)
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,id,number,라벨링 식별자
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,segmentation_points,array,세그멘테이션 포인트 위치
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,robot_tf,object,로봇에 대한 transformation matrix
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,rotation_3x3,array,rotation matrix
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,translation_3x1,array,translation matrix
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,human_annotation_grasp,array,휴먼 어노테이션 파지 영역
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,annotation_type,string,어노테이션 타입 (keypoint)
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,id,number,라벨링 식별자
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,annotation_points,array,키포인트 위치
+로봇 행동 데이터 (3D 물건 파지),상품 2D 이미지,num_keypoints,number,키포인트 수 (2)
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,image_file_name,string,원천데이터 파일명
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,camera_info,object,카메라 정보
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,camera_intrinsic_param,object,카메라 내부 파라미터 정보
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,camera_name,string,카메라 모델명
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,chessboard_tf,object,칼리브레이션을 위한 체스보드와 카메라간의 TF
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,leftbottom_tf_4x4,array,좌측 하단 체스보드의 TF
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,lefttop_tf_4x4,array,좌측 상단 체스보드의 TF
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,rightbottom_tf_4x4,array,우측 하단 체스보드의 TF
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,righttop_tf_4x4,array,우측 상단 체스보드의 TF
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,data_key,object,동영상 정보
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,time,string,프레임 추출 시점
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,video,string,원본 동영상 이름
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,object_name,string,파지 상품 이름
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,objects,array,객체 정보
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,annotation_type,string,로봇영역 폴리곤 세그멘테이션
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,class_name,string,클래스 이름 
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,id,number,라벨링 식별자
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,segmentation_points,array,포인트 위치
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,robot_behaviors,string,로봇 행동 종류
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,robot_joint_value,object,로봇팔 각도
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,robot_tf.j1,number,첫번째 joint의 각도
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,robot_tf.j2,number,두번째 joint의 각도
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,robot_tf.j3,number,세번째 joint의 각도
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,robot_tf.j4,number,네번째 joint의 각도
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,robot_tf.j5,number,다섯번째 joint의 각도
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,robot_tf.j6,number,여섯번째 joint의 각도
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,robot_speed,string,로봇 속도
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,robot_tf,object,
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,tf_4x4,array,로봇에 대한 transformation matrix
+로봇 행동 데이터 (3D 물건 파지),로봇팔 행동 이미지,robot_trajectory,string,로봇 궤적 종류
+배터리 불량 이미지 데이터,,battery_ids,number,배터리 고유번호
+배터리 불량 이미지 데이터,,application,string,사용처
+배터리 불량 이미지 데이터,,type,string,배터리 타입
+배터리 불량 이미지 데이터,,form ,string,배터리 형태
+배터리 불량 이미지 데이터,,manufacturer,string,제조사
+배터리 불량 이미지 데이터,,model ,string,배터리 모델
+배터리 불량 이미지 데이터,,date ,string,촬영 일자
+배터리 불량 이미지 데이터,,place,string,촬영 장소
+배터리 불량 이미지 데이터,,swelling ,string,"swelling tagging 값(ex : ""False"")"
+배터리 불량 이미지 데이터,,distance ,float,촬영 거리
+배터리 불량 이미지 데이터,,degree ,float,촬영 각도
+배터리 불량 이미지 데이터,,px_xyz,JsonArray,(CT)배터리의 3d 이미지 사이즈
+배터리 불량 이미지 데이터,,e_property ,string,전기적 특성
+배터리 불량 이미지 데이터,,x_axis_range ,JsonArray,이미지 내에서 참조한 x축의 범위
+배터리 불량 이미지 데이터,,x_axis_divide_length ,float,x축 범위 사이에서 프레임을 추출하는 간격의 길이
+배터리 불량 이미지 데이터,,y_axis_range ,JsonArray,이미지 내에서 참조한 y축의 범위
+배터리 불량 이미지 데이터,,y_axis_divide_length ,float,y축 범위 사이에서 프레임을 추출하는 간격의 길이
+배터리 불량 이미지 데이터,,z_axis_range,JsonArray,이미지 내에서 참조한 z축의 범위
+배터리 불량 이미지 데이터,,z_axis_divide_length,float,z축 범위 사이에서 프레임을 추출하는 간격의 길이
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,annotation_add,Object,
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,imgHeight,integer,이미지 높이크기
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,imgWidth,integer,이미지 가로크기
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,class_count,integer,총 객체 수
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,pedestrian_info,string,보행자 유무
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,pedestrian_num,integer,보행자 빈도수
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,road_info,string,도로 유무
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,vehicle_num,integer,차량 빈도수
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,trafficLight_info,string,신호등 유무
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,annotation,Object,
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,annotation_id,integer,어노테이션 ID
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,class_id,integer,클래스 ID
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,class_type,string,클래스 유형
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,polygon,array,가공 정보
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,is_crowded,string,가려짐여부
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,info,Object,
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,filename,string,파일명
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,resolution,array,"파일 가로, 세로 사이즈"
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,section,string,수집기관
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,location,string,수집지역
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,case,string,수집장소
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,driving_type,string,주행환경
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,scene_number,integer,촬영차시
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,date,integer,수집일자
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,time,string,시간대
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,season,string,계절
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,weather,string,날씨
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,device_type,string,수집기기 종류
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,sensor_id,string,센서 id
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,speed,double,평균속력
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,sidewalk_flatness,string,주행로 평탄도
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,GPS,double array,GPS 위치정보
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,sensor_pose,double array,센서의 전역 자세/위치정보
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,robot_pose,double array,로봇의 전역 자세/위치정보
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,extrinsic_parameter,double array,센서의 로봇 원점 대비 상대 자세/위치정보
+배송로봇 비도로 운행데이터,2D 라벨링 데이터,intrinsic_parameter,double array,카메라 내부 파라미터
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,annotation_add,Object,
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,class_count,integer,추적 객체 수
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,pedestrian_num,integer,보행자 빈도수
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,bike_num,integer,이륜차 빈도수
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,vehicle_num,integer,차량 빈도수
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,struct_num,integer,장애물 빈도수
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,annotation,Object,
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,class_id,integer,클래스 ID
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,class,string,클래스명
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,location,array,위치정보 (중심좌표)
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,dimension,array,크기정보 (길이좌표)
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,heading,array,방향정보 (회전각도)
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,info,Object,
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,filename,string,파일명
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,points,integer,포인트 수
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,section,string,수집기관
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,location,string,수집지역
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,case,string,수집환경
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,driving_type,string,주행환경
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,scene_number,integer,촬영차시
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,date,integer,수집일자
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,time,string,시간대
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,season,string,계절
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,weather,string,날씨
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,device_type,string,수집기기 종류
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,sensor_id,string,센서 id
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,speed,double,평균속력
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,sidewalk_flatness,string,주행로 평탄도
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,GPS,double array,GPS 위치정보
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,sensor_pose,double array,센서의 전역 자세/위치정보
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,robot_pose,double array,로봇의 전역 자세/위치정보
+배송로봇 비도로 운행데이터,3D 라벨링 데이터,extrinsic_parameter,double array,센서의 로봇 원점 대비 상대 자세/위치정보
+손∙팔 협조에 의한 파지-조작 동작 데이터,,image.image_ID,string,이미지 파일 이름
+손∙팔 협조에 의한 파지-조작 동작 데이터,,image.width,string,이미지 가로 픽셀 크기
+손∙팔 협조에 의한 파지-조작 동작 데이터,,image.height,string,이미지 세로 픽셀 크기
+손∙팔 협조에 의한 파지-조작 동작 데이터,,mission.id,string,임무 ID
+손∙팔 협조에 의한 파지-조작 동작 데이터,,mission.name,string,임무 이름
+손∙팔 협조에 의한 파지-조작 동작 데이터,,object.object_id,string,객체 ID
+손∙팔 협조에 의한 파지-조작 동작 데이터,,object.object_name,string,객체 이름
+손∙팔 협조에 의한 파지-조작 동작 데이터,,object.object_2D,array,객체 바운딩박스
+손∙팔 협조에 의한 파지-조작 동작 데이터,,object.grasp_2D,array,객체 파지 가능 지점
+손∙팔 협조에 의한 파지-조작 동작 데이터,,object.object_3D,array,대상 객체의 3차원 자세
+손∙팔 협조에 의한 파지-조작 동작 데이터,,object.intrinsic,array,촬영 카메라 내부 파라메터
+손∙팔 협조에 의한 파지-조작 동작 데이터,,object.distortion,array,촬영 카메라 렌즈 왜곡 계수
+손∙팔 협조에 의한 파지-조작 동작 데이터,,gesture.subject_id,number,실험자 ID
+손∙팔 협조에 의한 파지-조작 동작 데이터,,gesture.hand_gesture_data.device_name,string,이미지 촬영 장비 이름
+손∙팔 협조에 의한 파지-조작 동작 데이터,,gesture.hand_gesture_data.hand_keypoints.2D,array,손 관절 2D 좌표
+손∙팔 협조에 의한 파지-조작 동작 데이터,,gesture.hand_gesture_data.hand_keypoints.3D,array,손 관절 3D 좌표
+손∙팔 협조에 의한 파지-조작 동작 데이터,,gesture.hand_gesture_data.hand_keypoints.visibility,array,손 관절 데이터 가시화 정도
+손∙팔 협조에 의한 파지-조작 동작 데이터,,gesture.hand_gesture_data.grasp_direction,number,손 접근 방향
+손∙팔 협조에 의한 파지-조작 동작 데이터,,gesture.hand_gesture_data.grasp_finger_count,number,파지-조작 손가락 수
+손∙팔 협조에 의한 파지-조작 동작 데이터,,gesture.hand_gesture_data.grasp_position_2D,array,손가락 끝 객체 점점
+손∙팔 협조에 의한 파지-조작 동작 데이터,,gesture.upper_body_2D.keypoints,array,상체 관절 2D 좌표
+손∙팔 협조에 의한 파지-조작 동작 데이터,,gesture.upper_body_2D.visibility,array,상체 관절 가시화 정도
+손∙팔 협조에 의한 파지-조작 동작 데이터,,gesture.force_sensor_data.device_name,string,손 힘데이터 측정 장비 이름
+손∙팔 협조에 의한 파지-조작 동작 데이터,,gesture.force_sensor_data.force_Data,array,손가락 끝 힘 데이터
+손∙팔 협조에 의한 파지-조작 동작 데이터,,light_source.device_name,string,조명 단계 촬영 장비 이름
+손∙팔 협조에 의한 파지-조작 동작 데이터,,light_source.light_degree,string,조명 단계
+로봇 핸드용 객체 특성 식별 데이터,,object.id,number,객체 ID
+로봇 핸드용 객체 특성 식별 데이터,,object.name,string,객체 이름
+로봇 핸드용 객체 특성 식별 데이터,,object.material_code,string,객체 재질 코드
+로봇 핸드용 객체 특성 식별 데이터,,device.rgb,string,RGB 이미지 촬영 장비 이름
+로봇 핸드용 객체 특성 식별 데이터,,device.rgbd,string,RGB-D 이미지 촬영 장비 이름
+로봇 핸드용 객체 특성 식별 데이터,,mesh,array,메쉬 파일 이름
+로봇 핸드용 객체 특성 식별 데이터,,point_cloud,string,포인트 클라우드 파일 이름
+로봇 핸드용 객체 특성 식별 데이터,,cuboid_3d,array,객체 큐보이드 9개 점의 위치
+로봇 핸드용 객체 특성 식별 데이터,,camera_parameters.internal,array,카메라 내부 파라메터
+로봇 핸드용 객체 특성 식별 데이터,,camera_parameters.external,array,카메라 외부 파라메터
+로봇 핸드용 객체 특성 식별 데이터,,image_file_name,string,대상 이미지 파일이름
+로봇 핸드용 객체 특성 식별 데이터,,object.id,number,객체 ID
+로봇 핸드용 객체 특성 식별 데이터,,object.name,string,객체 이름
+로봇 핸드용 객체 특성 식별 데이터,,object.material_code,string,객체 재질 코드
+로봇 핸드용 객체 특성 식별 데이터,,object.is_deformable,string,객체 변형 가능성
+로봇 핸드용 객체 특성 식별 데이터,,annotation.device.hand,string,로봇 핸드 장비 이름
+로봇 핸드용 객체 특성 식별 데이터,,annotation.device.tactile,string,로봇 핸드 손가락 끝 장비 이름
+로봇 핸드용 객체 특성 식별 데이터,,annotation.mission_name,string,로봇 핸드 임무 이름
+로봇 핸드용 객체 특성 식별 데이터,,annotation.width,number,이미지 가로 크기
+로봇 핸드용 객체 특성 식별 데이터,,annotation.height,number,이미지 세로 크기
+로봇 핸드용 객체 특성 식별 데이터,,annotation.pose_file,array,대상 객체에 대한 카메라 위치
+로봇 핸드용 객체 특성 식별 데이터,,annotation.pressure,array,로봇 핸드 임무 시 압력 값
+로봇 핸드용 객체 특성 식별 데이터,,annotation.torque,array,로봇 핸드 임무 시 토크 값
+로봇 핸드용 객체 특성 식별 데이터,,annotation.motion,array,로봇 핸드 임무 시 로봇 핸드 관절의 가속도 값
+로봇 핸드용 객체 특성 식별 데이터,,annotation.virbration,array,로봇 핸드 임무 시 진동 값
+로봇 핸드용 객체 특성 식별 데이터,,annotation.temperature,array,로봇 핸드 임무 시 온도 값
+로봇 핸드용 객체 특성 식별 데이터,,annotation.grasp_3D,array,로봇 핸드가 물체를 파지 및 조작했을 때의 3D 위치
+로봇 핸드용 객체 특성 식별 데이터,,annotation.is_grasp,string,로봇 핸드의 파지 여부
+로봇 핸드용 객체 특성 식별 데이터,,annotation.bbox,array,임무 대상 객체 바운딩 박스
+로봇 핸드용 객체 특성 식별 데이터,,annotation.grasp_2D,array,임무 대상 객체 2D 이미지 파지 영역
+로봇 핸드용 객체 특성 식별 데이터,,annotation.grasp_point_2D,array,임무 대상 객체 2D 이미지 파지 점
+로봇 핸드용 객체 특성 식별 데이터,,annotation.grasp_finger_count,number,임무 시 로봇 핸드 손가락 수
+로봇 핸드용 객체 특성 식별 데이터,,annotation.force_grade,number,임무 시 로봇 핸드 힘 단계
+로봇 핸드용 객체 특성 식별 데이터,,annotation.mission_id,string,임무 시 로봇 핸드 임무 ID
+로봇 핸드용 객체 특성 식별 데이터,,annotation.grasp_dir,number,임무 시 로봇 핸드 접근 방향
+로봇 핸드용 객체 특성 식별 데이터,,annotation.image_file,string,대상 이미지 파일 이름
+로봇 핸드용 객체 특성 식별 데이터,,annotation.sound,string,임무 시 소리
+소셜로봇 고객응대 데이터,,video_id,string,비디오 파일명
+소셜로봇 고객응대 데이터,,video_frames,number,비디오 총 프레임 개수
+소셜로봇 고객응대 데이터,,video_fps,number,초당 프레임 개수 
+소셜로봇 고객응대 데이터,,video_duration,number,동영상 전체 길이
+소셜로봇 고객응대 데이터,,video_width,,동영상 넓이 
+소셜로봇 고객응대 데이터,,video_height,,동영상 높이
+소셜로봇 고객응대 데이터,,video_file_name,,비디오 파일 이름 및 위치
+소셜로봇 고객응대 데이터,,date_captured,,비디오 생성 시기 
+소셜로봇 고객응대 데이터,,location,,비디오 촬영 장소
+소셜로봇 고객응대 데이터,,client_gender,,고객 성별
+소셜로봇 고객응대 데이터,,client_age,,고객 나이 
+소셜로봇 고객응대 데이터,,client_accessory,,고객 악세서리
+소셜로봇 고객응대 데이터,,client_appearance,,고객 외형 
+소셜로봇 고객응대 데이터,,client_number,,고객 인원 수 
+소셜로봇 고객응대 데이터,,interactions,,데이터 전체 정보 
+소셜로봇 고객응대 데이터,,human_event,,고객 발화 및 행동 전체 정보
+소셜로봇 고객응대 데이터,,start,,고객 발화 및 행동 시점 중 최소값
+소셜로봇 고객응대 데이터,,end,,고객 발화 및 행동 시점 중 최대값
+소셜로봇 고객응대 데이터,,actions,,고객 행동 클래스 정보
+소셜로봇 고객응대 데이터,,action_class,,고객 행동 클래스 분류 
+소셜로봇 고객응대 데이터,,action_discription,string,고객 행동 설명문 
+소셜로봇 고객응대 데이터,,action_start,,고객 행동 시작 시점
+소셜로봇 고객응대 데이터,,action_end,,고객 행동 종료 시점 
+소셜로봇 고객응대 데이터,,utterances,,고객 발화 클래스 정보 
+소셜로봇 고객응대 데이터,,utterance_intend,,고객 발화 의도 클래스 분류 
+소셜로봇 고객응대 데이터,,utterance_cap,,고객 발화 내용 
+소셜로봇 고객응대 데이터,,utterance_start,,고객 발화 시작 시점
+소셜로봇 고객응대 데이터,,utterance_end,,고객 발화 종료 시점 
+소셜로봇 고객응대 데이터,,faces,,바운딩 박스 전체 정보
+소셜로봇 고객응대 데이터,,time,,프레임 추출 시점
+소셜로봇 고객응대 데이터,,face_bbox,,고객 바운딩박스 좌표
+소셜로봇 고객응대 데이터,,face_class,,고객 표정 클래스 분류
+소셜로봇 고객응대 데이터,,robot_response,,로봇 발화 전체 정보
+소셜로봇 고객응대 데이터,,answer,,로봇 발화 내용 
+소셜로봇 고객응대 데이터,,start,,로봇 발화 시작 시점
+소셜로봇 고객응대 데이터,,end,,로봇 발화 종료 시점 
+소셜로봇 고객응대 데이터,,action_class,,로봇 행동 클래스 분류 
+가려진 객체 추론 데이터,,scene_info,,이미지 정보
+가려진 객체 추론 데이터,,object_set,,물체 세트 정보
+가려진 객체 추론 데이터,,scene_id,,공간 ID
+가려진 객체 추론 데이터,,image_id,,이미지 ID
+가려진 객체 추론 데이터,,environment,,환경
+가려진 객체 추론 데이터,,background,,배경
+가려진 객체 추론 데이터,,split,,데이터 구분
+가려진 객체 추론 데이터,,camera_info,,카메라 정보
+가려진 객체 추론 데이터,,cam_R_w2c,,카메라 자세 (회전 값)
+가려진 객체 추론 데이터,,cam_t_w2c,,카메라 자세 (위치 값)
+가려진 객체 추론 데이터,,cam_K,,카메라 내부 파라미터
+가려진 객체 추론 데이터,,depth_scale,,깊이 정보 스케일
+가려진 객체 추론 데이터,,resolution,,카메라 해상도
+가려진 객체 추론 데이터,,camera_type,,카메라 종류
+가려진 객체 추론 데이터,,annotation,,라벨링 정보
+가려진 객체 추론 데이터,,object_id,,물체 아이디
+가려진 객체 추론 데이터,,instance_id,,인스턴스 아이디
+가려진 객체 추론 데이터,,cam_R_m2c,,물체 자세 (회전 값)
+가려진 객체 추론 데이터,,cam_t_m2c,,물체 자세 (위치 값)
+가려진 객체 추론 데이터,,visible_mask,,가시 마스크
+가려진 객체 추론 데이터,,invisible_mask,,비가시 마스크
+가려진 객체 추론 데이터,,amodal_mask,,아모달 마스크
+가려진 객체 추론 데이터,,occlusion_order,,가림 순서
+가려진 객체 추론 데이터,,depth_order,,깊이 순서
+안내 로봇 인터랙션 멀티모달,,from_name,,바운딩박스 라벨 이름
+안내 로봇 인터랙션 멀티모달,,id,,이미지 ID
+안내 로봇 인터랙션 멀티모달,,image_rotation,,이미지 회전
+안내 로봇 인터랙션 멀티모달,,original_height,,이미지 높이
+안내 로봇 인터랙션 멀티모달,,original_width,,이미지 너비
+안내 로봇 인터랙션 멀티모달,,parent_id,,해당 항목의 부모 라벨 ID
+안내 로봇 인터랙션 멀티모달,,source,,데이터 타입
+안내 로봇 인터랙션 멀티모달,,to_name,,라벨링 원천이 되는 데이터 타입
+안내 로봇 인터랙션 멀티모달,,type,,라벨 타입(바운딩 박스를 그리는 형식)
+안내 로봇 인터랙션 멀티모달,,value,,하위항목 사전화
+안내 로봇 인터랙션 멀티모달,,height,,바운딩 박스 높이
+안내 로봇 인터랙션 멀티모달,,rectanglelabels,,바운딩 박스된 인물 성별 라벨값
+안내 로봇 인터랙션 멀티모달,,rotation,,바운딩 박스 회전
+안내 로봇 인터랙션 멀티모달,,width,,바운딩 박스 너비
+안내 로봇 인터랙션 멀티모달,,x,,x축 좌표
+안내 로봇 인터랙션 멀티모달,,y,,y축 좌표
+안내 로봇 인터랙션 멀티모달,,from_name,,인물을 바라보는 카메라 시선 라벨 이름
+안내 로봇 인터랙션 멀티모달,,id,,해당 라벨 ID
+안내 로봇 인터랙션 멀티모달,,to_name,,라벨링 원천이 되는 데이터 타입
+안내 로봇 인터랙션 멀티모달,,type,,라벨 타입
+안내 로봇 인터랙션 멀티모달,,value,,하위항목 사전화
+안내 로봇 인터랙션 멀티모달,,choices,,바운딩 박스된 인물을 바라보는 카메라의 시선값
+안내 로봇 인터랙션 멀티모달,,from_name,,인물의 감정 라벨 이름
+안내 로봇 인터랙션 멀티모달,,id,,해당 라벨 ID
+안내 로봇 인터랙션 멀티모달,,to_name,,라벨링 원천이 되는 데이터 타입
+안내 로봇 인터랙션 멀티모달,,type,,라벨 타입
+안내 로봇 인터랙션 멀티모달,,value,,하위항목 사전화
+안내 로봇 인터랙션 멀티모달,,choices,,바운딩 박스된 인물의 감정 값
+안내 로봇 인터랙션 멀티모달,,from_name,,인물의 발화 텍스트 라벨
+안내 로봇 인터랙션 멀티모달,,to_name,,라벨 타입
+안내 로봇 인터랙션 멀티모달,,type,,라벨 타입(텍스트를 입력하는 형식)
+안내 로봇 인터랙션 멀티모달,,value,,하위항목 사전화
+안내 로봇 인터랙션 멀티모달,,text,,바운딩 박스된 인물의 발화 텍스트 값
+안내 로봇 인터랙션 멀티모달,,from_name,,인물의 발화 어조 라벨
+안내 로봇 인터랙션 멀티모달,,id,,해당 라벨 ID
+안내 로봇 인터랙션 멀티모달,,to_name,,라벨링 원천이 되는 데이터 타입
+안내 로봇 인터랙션 멀티모달,,type,,라벨 타입
+안내 로봇 인터랙션 멀티모달,,value,,하위항목 사전화
+안내 로봇 인터랙션 멀티모달,,choices,,바운딩 박스된 인물의 발화 어조 값
+안내 로봇 인터랙션 멀티모달,,from_name,,인물의 발화 의도 라벨
+안내 로봇 인터랙션 멀티모달,,id,,해당 라벨 ID
+안내 로봇 인터랙션 멀티모달,,to_name,,라벨링 원천이 되는 데이터 타입
+안내 로봇 인터랙션 멀티모달,,type,,라벨 타입
+안내 로봇 인터랙션 멀티모달,,value,,하위항목 사전화
+안내 로봇 인터랙션 멀티모달,,choices,,바운딩 박스된 인물의 발화 의도 값
+안내 로봇 인터랙션 멀티모달,,from_name,,바운딩 박스된 인물의 인터랙션 여부 라벨
+안내 로봇 인터랙션 멀티모달,,id,,해당 라벨 ID
+안내 로봇 인터랙션 멀티모달,,type,,라벨 타입
+안내 로봇 인터랙션 멀티모달,,value,,하위항목 사전화
+안내 로봇 인터랙션 멀티모달,,choices,,바운딩 박스된 인물의 인터랙션 여부 값
+생활도로 객체인식 자율주행 데이터,,info,,객체 정보 및 속성
+생활도로 객체인식 자율주행 데이터,,description,,작업 정보
+생활도로 객체인식 자율주행 데이터,,contributor,,가공도구 회사
+생활도로 객체인식 자율주행 데이터,,url,,가공도구 회사 주소
+생활도로 객체인식 자율주행 데이터,,date_created,,생성 날짜
+생활도로 객체인식 자율주행 데이터,,category,,카테고리
+생활도로 객체인식 자율주행 데이터,,id,,클래스 아이디
+생활도로 객체인식 자율주행 데이터,,name,,클래스 명
+생활도로 객체인식 자율주행 데이터,,category_id,,카테고리 아이디
+생활도로 객체인식 자율주행 데이터,,supercategory,,객체 supercategory
+생활도로 객체인식 자율주행 데이터,,images,,
+생활도로 객체인식 자율주행 데이터,,id,,이미지 고유번호
+생활도로 객체인식 자율주행 데이터,,license,,
+생활도로 객체인식 자율주행 데이터,,dataset,,
+생활도로 객체인식 자율주행 데이터,,file_name,,원천데이터 파일명
+생활도로 객체인식 자율주행 데이터,,height,,이미지 높이
+생활도로 객체인식 자율주행 데이터,,width,,이미지 넓이
+생활도로 객체인식 자율주행 데이터,,annotations,,어노테이션 속성
+생활도로 객체인식 자율주행 데이터,,id,,고유번호
+생활도로 객체인식 자율주행 데이터,,image_id,,이미지 고유번호
+생활도로 객체인식 자율주행 데이터,,iscrowd,,크라우드 고유번호
+생활도로 객체인식 자율주행 데이터,,category_id,,카테고리 고유번호
+생활도로 객체인식 자율주행 데이터,,bbox,,바운딩박스 값
+생활도로 객체인식 자율주행 데이터,,segmentation,,세그멘테이션 값
+생활도로 객체인식 자율주행 데이터,,object_properties,,객체값
+생활도로 객체인식 자율주행 데이터,,image_properties,,객체 속성
+생활도로 객체인식 자율주행 데이터,,id,,고유 번호
+생활도로 객체인식 자율주행 데이터,,image_id,,이미지 파일의 고유 번호
+생활도로 객체인식 자율주행 데이터,,name,,클래스 정보
+생활도로 객체인식 자율주행 데이터,,type,,이미지 속성 유형
+생활도로 객체인식 자율주행 데이터,,value,,속성값
+생활도로 객체인식 자율주행 데이터,,company,,원시데이터 수집 기관
+생활도로 객체인식 자율주행 데이터,,png_filename,,원천데이터 파일명
+특이 도로 환경 주행 데이터,,images[],,이미지정보
+특이 도로 환경 주행 데이터,,images[].id,,고유 ID
+특이 도로 환경 주행 데이터,,images[].width,,이미지 가로길이
+특이 도로 환경 주행 데이터,,images[].height,,이미지 세로길이
+특이 도로 환경 주행 데이터,,images[].file_name,,이미지명
+특이 도로 환경 주행 데이터,,images[].license,,라이센스
+특이 도로 환경 주행 데이터,,images[].촬영날짜,,촬영날짜
+특이 도로 환경 주행 데이터,,images[].촬영날씨,,촬영날씨
+특이 도로 환경 주행 데이터,,images[].촬영장소,,촬영장소
+특이 도로 환경 주행 데이터,,images[].장소유형,,장소유형
+특이 도로 환경 주행 데이터,,images[].시간대,,시간대
+특이 도로 환경 주행 데이터,,annotations[],,어노테이션 정보
+특이 도로 환경 주행 데이터,,annotations[].class,,라벨링 클래스
+특이 도로 환경 주행 데이터,,annotations[].주행부,,주행부
+특이 도로 환경 주행 데이터,,annotations[].label_type,,라벨링 타입
+특이 도로 환경 주행 데이터,,annotations[].coordinates[],,라벨링 값
+특이 도로 환경 주행 데이터,,annotations[].coordinates[].value,,"x, y의 좌표"
+열화상 카메라 융합 자율주행 데이터,,imagePath,,이미지파일명
+열화상 카메라 융합 자율주행 데이터,,imageHeight,,이미지 세로 크기 (픽셀)
+열화상 카메라 융합 자율주행 데이터,,imageWidth,,이미지 가로 크기(픽셀)
+열화상 카메라 융합 자율주행 데이터,,shapes.label,,클래스 이름
+열화상 카메라 융합 자율주행 데이터,,shapes.points,,이미지 어노테이션 좌표
+열화상 카메라 융합 자율주행 데이터,,shapes.shape_type,,가공 형태
+자전거도로 주행 데이터,,FILE_NAME,,파일명
+자전거도로 주행 데이터,,HEIGHT,,이미지 높이
+자전거도로 주행 데이터,,WIDTH,,이미지 너비
+자전거도로 주행 데이터,,DATE_CAPTURED,,촬영날짜 및 시간
+자전거도로 주행 데이터,,FILE_SIZE,,파일크기
+자전거도로 주행 데이터,,COLLECTION_METHOD,,촬영방식구분
+자전거도로 주행 데이터,,DAYNIGHT,,오전/오후
+자전거도로 주행 데이터,,PLACE,,촬영지역명
+자전거도로 주행 데이터,,COURSE,,촬영 코스
+자전거도로 주행 데이터,,GPS,,촬영위치 위경도
+자전거도로 주행 데이터,,SPEED,,순간속도
+자전거도로 주행 데이터,,ALTITUDE,,고도
+자전거도로 주행 데이터,,ID_CODE,,촬영자 코드
+자전거도로 주행 데이터,,WEATHER,,기상정보
+자전거도로 주행 데이터,,MAKE,,카메라제조사
+자전거도로 주행 데이터,,MODEL_NAME,,카메라 모델명
+자전거도로 주행 데이터,,BIKE_LANE,,자전거도로 종류
+자전거도로 주행 데이터,,BOUNDINGCOUNT,,라벨링 Object 개수
+승용 자율주행차 악천후 데이터,,filename,,파일명
+승용 자율주행차 악천후 데이터,,resolution,,이미지 해상도
+승용 자율주행차 악천후 데이터,,section,,데이터 분류
+승용 자율주행차 악천후 데이터,,location,,수집 지역
+승용 자율주행차 악천후 데이터,,case,,시나리오 종류
+승용 자율주행차 악천후 데이터,,scene_number,,scene 번호
+승용 자율주행차 악천후 데이터,,wether,,날씨
+승용 자율주행차 악천후 데이터,,date,,날짜
+승용 자율주행차 악천후 데이터,,time,,시간대
+승용 자율주행차 악천후 데이터,,car_type,,수집차량 종류
+승용 자율주행차 악천후 데이터,,traffic,,교통량
+승용 자율주행차 악천후 데이터,,speed,,차량 속도
+승용 자율주행차 악천후 데이터,,road_type,,차선 폭
+승용 자율주행차 악천후 데이터,,class,,클래스명
+승용 자율주행차 악천후 데이터,,polygon,,가공 정보
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,images,,이미지정보
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,Images.identifier,,이미지식별자
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,Images.type,,이미지 파일 확장자
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,Images.width,,이미지 가로 크기 (픽셀)
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,Images.height,,이미지 세로 크기 (픽셀)
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,Images.data_captured,,이미지 생성 일자
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,Images.weather,,이미지 취득 당시 날씨
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,Images.road_type,,이미지 취득 장소
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,Images.frame_num,,영상 내 이미지 프레임 순서
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,Images.num_object,,이미지 당 객체 수
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,annotations,,라벨링정보
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,bbox.id,,바운딩박스 식별자
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,bbox.category,,바운딩박스 내 객체 유형
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,bbox.x,,바운딩박스 시작점 x좌표
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,bbox.y,,바운딩박스 시작점 y좌표
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,bbox.width,,바운딩박스 가로 길이 (픽셀)
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,bbox.height,,바운딩박스 세로 길이 (픽셀)
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,bbox.size,,바운딩 박스 크기 분류
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,bbox.angle,,객체 기울어짐 정도
+자율주행차 정적객체정보 인지 및 갱신 자동화 데이터,,bbox.distance,,거리
+상용 자율주행차 주간 자동차 전용도로 데이터,,car_type,,차량 정보
+상용 자율주행차 주간 자동차 전용도로 데이터,,date,,수집 날짜
+상용 자율주행차 주간 자동차 전용도로 데이터,,time,,수집 시간
+상용 자율주행차 주간 자동차 전용도로 데이터,,zone,,수집 구간
+상용 자율주행차 주간 자동차 전용도로 데이터,,road_type,,도로 형태
+상용 자율주행차 주간 자동차 전용도로 데이터,,weather,,날씨
+상용 자율주행차 주간 자동차 전용도로 데이터,,fog,,안개/연무/박무/황사
+상용 자율주행차 주간 자동차 전용도로 데이터,,backlight,,역광
+상용 자율주행차 주간 자동차 전용도로 데이터,,precipitation,,강수량
+상용 자율주행차 주간 자동차 전용도로 데이터,,speed_type,,차량 속도
+상용 자율주행차 주간 자동차 전용도로 데이터,,traffic_type,,교통 흐름
+상용 자율주행차 주간 자동차 전용도로 데이터,,edge_case,,엣지 케이스
+상용 자율주행차 주간 자동차 전용도로 데이터,,calibration,,캘리브레이션
+자율주행 가상센서 시뮬레이션 데이터,,Scene_meta,,시나리오 정보
+자율주행 가상센서 시뮬레이션 데이터,,road_environment,,도로환경
+자율주행 가상센서 시뮬레이션 데이터,,road_area,,도로구분
+자율주행 가상센서 시뮬레이션 데이터,,edge_case,,엣지케이스 정보
+자율주행 가상센서 시뮬레이션 데이터,,scene_case,,시나리오 구분자
+자율주행 가상센서 시뮬레이션 데이터,,scene_seperate,,반복 구분자
+자율주행 가상센서 시뮬레이션 데이터,,scene_number,,주행 시나리오
+자율주행 가상센서 시뮬레이션 데이터,,Environment_meta,,환경정보
+자율주행 가상센서 시뮬레이션 데이터,,car_type,,차종
+자율주행 가상센서 시뮬레이션 데이터,,time,,시간대
+자율주행 가상센서 시뮬레이션 데이터,,weather,,날씨
+자율주행 가상센서 시뮬레이션 데이터,,information,,정보
+자율주행 가상센서 시뮬레이션 데이터,,resolution,,해상도
+자율주행 가상센서 시뮬레이션 데이터,,annotations{},,라벨링정보
+자율주행 가상센서 시뮬레이션 데이터,,bbox,,2D bbox
+자율주행 가상센서 시뮬레이션 데이터,,attribute,,라벨링 속성
+자율주행 가상센서 시뮬레이션 데이터,,attribute[].occluded,,가려짐 여부
+자율주행 가상센서 시뮬레이션 데이터,,attribute[].truncated,,잘림 여부
+자율주행 가상센서 시뮬레이션 데이터,,attribute[].track_id,,탐지 object ID
+자율주행 가상센서 시뮬레이션 데이터,,class,,클래스 속성 분류
+자율주행 가상센서 시뮬레이션 데이터,,dimension,,3D bbox : 탐지된 object의 size 
+자율주행 가상센서 시뮬레이션 데이터,,location,,3D bbox : 탐지된 object 중심점의 좌표
+자율주행 가상센서 시뮬레이션 데이터,,orientation,,3D bbox : 탐지된 object 사이의 회전각
+자율주행 가상센서 시뮬레이션 데이터,,distance,,탐지된 object와 거리
