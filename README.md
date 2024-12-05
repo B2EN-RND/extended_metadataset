@@ -1,1 +1,1 @@
-# 증강분석을 위한 확장 Meta Data 셋 개발
+# 증강분석을 위한 확장 Metadata set 개발
